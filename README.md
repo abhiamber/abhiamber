@@ -1,24 +1,15 @@
-### Hi there 👋
- I'am Abhsihek Kumar Amber 
- Aspiring Full Stack Web Developer
-	
-	From Uttar Bihar, India. I am a competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
+💫 About Me:
+🔭 I’m Aspiring Full Stack Web Developer.
 
-I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS,MongoDb,Expres Js. I am good in data structure and algorithms.
+🤔 Working At Newton School As Student.
+💬 Ask me about Good First Issues & Exciting projects to work on.
 
-<!--  -->
- 
-<!--
-**abhiamber/abhiamber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+HTML CSS JavaScript ReactJs Redux NodeJs MongoDb ExpressJs Postman
 
-Here are some ideas to get you started:
+📊 GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
 -->

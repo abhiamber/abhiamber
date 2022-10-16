@@ -1,7 +1,7 @@
 💫 About Me:
 🔭 I’m Aspiring Full Stack Web Developer.
 
-🤔 Working At Newton School As Student.
+🤔 Working At Masai School As Student.
 💬 Ask me about Good First Issues & Exciting projects to work on.
 
 💻 Tech Stack:

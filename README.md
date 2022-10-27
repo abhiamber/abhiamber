@@ -1,16 +1,6 @@
-💫 About Me:
-🔭 I’m Aspiring Full Stack Web Developer.
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Amber</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🤔 Working At Masai School As Student.
-💬 Ask me about Good First Issues & Exciting projects to work on.
-
-💻 Tech Stack:
-HTML CSS JavaScript ReactJs Redux NodeJs MongoDb ExpressJs Postman
-
-
-📊 GitHub Stats:
-
-
-
-
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>

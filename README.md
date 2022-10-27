@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiamber&label=Profile%20views&color=0e75b6&style=flat" alt="abhiamber" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiamber" alt="abhiamber" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiamber" alt="abhiamber" /></a> </p> -->
 
 - 🌱 I’m currently learning **React, Redux**
 
@@ -13,7 +13,7 @@
 
 - Reachout to me **abhiamber191@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NdrYd8eBAUgr3Yqa4N6OH-XUcEI6v1z_/view?usp=sharing](https://drive.google.com/file/d/1NdrYd8eBAUgr3Yqa4N6OH-XUcEI6v1z_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NdrYd8eBAUgr3Yqa4N6OH-XUcEI6v1z_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

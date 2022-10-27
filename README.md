@@ -29,3 +29,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiamber&show_icons=true&locale=en" alt="abhiamber" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiamber&" alt="abhiamber" /></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhiamber)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiamber&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhiamber)  
+
+![GitHub metrics](https://metrics.lecoq.io/abhiamber)  
+
+![Profile views](https://gpvc.arturio.dev/abhiamber) 

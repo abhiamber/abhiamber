@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Amber</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiamber&label=Profile%20views&color=0e75b6&style=flat" alt="abhiamber" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhiamber&label=Profile%20views&color=0e75b6&style=flat" alt="abhiamber" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiamber" alt="abhiamber" /></a> </p> -->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiamber" alt="abhiamber" /></a> </p> -->
 
 - 🌱 I’m currently learning **React, Redux**
 

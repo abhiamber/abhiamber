@@ -31,7 +31,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiamber&" alt="abhiamber" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhiamber)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhiamber)   -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiamber&show_icons=true)   -->
 

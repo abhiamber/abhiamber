@@ -5,7 +5,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiamber" alt="abhiamber" /></a> </p> -->
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **Flutter, Firbase, AWS**
 
 - 👨‍💻 All of my projects are available at [https://abhiamber.github.io/Abhishek-portfolio-react/#/](https://abhiamber.github.io/Abhishek-portfolio-react/#/)
 

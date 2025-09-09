@@ -13,7 +13,7 @@
 
 - Reachout to me **abhiamber191@gmail.com**
 
-- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1M3hLDMToWV3vpjh5AjfpCT48AN1DyFgE/view?usp=sharing))
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1wTu9fJviDZZnHBMrxTRK4bU9Ft9YMXg8/view?usp=sharing)) 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" fontsize="20px">
